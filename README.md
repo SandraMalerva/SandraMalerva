@@ -22,7 +22,7 @@
 - **[Visualización de datos](#)** – Dashboards y gráficos que facilitan la toma de decisiones.  
 
 📫 **Conectemos!**  
-[LinkedIn](#) | [Correo electrónico](mailto:tucorreo@ejemplo.com)
+[www.linkedin.com/in/sandra-malerva-2980a7384](#) | [malervasr@gmail.com](mailto:tucorreo@ejemplo.com)
 
 
 <!--
