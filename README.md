@@ -11,7 +11,6 @@
 🔍 Me apasiona descubrir cómo los datos pueden ayudar a entender problemas y generar **soluciones prácticas**.  
 
 ✨ Me considero **curiosa, dedicada y perseverante**.  
-🙈 Aunque algo tímida, disfruto trabajar en **equipo** 🤝 y aprender de los demás.  
 
 🌱 Estoy en busca de oportunidades para seguir creciendo, **aplicar mis conocimientos en análisis de datos** y aportar **valor a proyectos innovadores** 🚀.
 
