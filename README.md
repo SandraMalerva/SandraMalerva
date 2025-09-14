@@ -1,4 +1,30 @@
-## Hi there 👋
+# Hola 👋, soy Sandra Malerva
+
+💻 **Ingeniera en Tecnologías de la Información**  
+📊 Actualmente cursando un **Bootcamp en Análisis de Datos**, adquiriendo habilidades en:  
+- **Python**  
+- **SQL**  
+- **Machine Learning**  
+- **Visualización de datos**  
+- **Metodologías de análisis orientadas a la toma de decisiones**  
+
+🔍 Me apasiona descubrir cómo los datos pueden ayudar a entender problemas y generar **soluciones prácticas**.  
+
+✨ Me considero **curiosa, dedicada y perseverante**.  
+🙈 Aunque algo tímida, disfruto trabajar en **equipo** 🤝 y aprender de los demás.  
+
+🌱 Estoy en busca de oportunidades para seguir creciendo, **aplicar mis conocimientos en análisis de datos** y aportar **valor a proyectos innovadores** 🚀.
+
+---
+
+### 🚀 Proyectos destacados
+- **[Análisis de ventas con SQL y Power BI](#)** – Limpieza de datos y creación de dashboards interactivos.  
+- **[Machine Learning con Python](#)** – Modelos predictivos para problemas reales.  
+- **[Visualización de datos](#)** – Dashboards y gráficos que facilitan la toma de decisiones.  
+
+📫 **Conectemos!**  
+[LinkedIn](#) | [Correo electrónico](mailto:tucorreo@ejemplo.com)
+
 
 <!--
 **SandraMalerva/SandraMalerva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
